@@ -12,6 +12,6 @@ public class Demo01 {
         System.out.println("git test3 master");
         System.out.println("git test3 hot-fix2");
         System.out.println("push test");
-
+        System.out.println("pull test");
     }
 }
